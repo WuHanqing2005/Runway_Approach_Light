@@ -57,31 +57,31 @@
 
 ## 3.1 实物图
 
-![[picture/3-1.jpg]]
+![](picture/3-1.jpg)
 
 ## 3.2 电路图
 
 ### 3.2.1 底板电路图
 
-![[picture/3-2-1.png]]
+![](picture/3-2-1.png)
 
 ### 3.2.2 顶板电路图
 
-![[picture/3-2-2.png]]
+![](picture/3-2-2.png)
 
 ## 3.3 2D预览图
 
 ### 3.3.1 底板2D预览图
 
-![[picture/3-3-1.png]]
+![](picture/3-3-1.png)
 
 ### 3.3.2 顶板2D预览图
 
-![[picture/3-3-2.png]]
+![](picture/3-3-2.png)
 
 ## 3.4 电路原理图
 
-![[picture/3-4.png]]
+![](picture/3-4.png)
 
 ---
 
