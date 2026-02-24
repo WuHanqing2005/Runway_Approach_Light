@@ -247,6 +247,14 @@ tools/
 
 ## 9.3 项目演示视频
 
+<p align="center">
+  <a href="https://www.bilibili.com/video/BV1fFtZz1Eyx" target="_blank">
+    <img src="https://img.shields.io/badge/Bilibili-点击跳转观看演示视频-fb7299?style=for-the-badge&logo=bilibili" alt="Watch on Bilibili">
+  </a>
+</p>
+
+<details open>
+<summary style="cursor: pointer; color: #fb7299; font-weight: bold;">📽️ 点击展开/收起内置播放器</summary>
 <div align="center">
     <br>
     <iframe 
@@ -258,9 +266,4 @@ tools/
         allowfullscreen>
     </iframe>
 </div>
-
-<p align="center">
-    <a href="https://www.bilibili.com/video/BV1fFtZz1Eyx">
-        <img src="https://img.shields.io/badge/Bilibili-点击跳转观看高清视频-fb7299?style=for-the-badge&logo=bilibili" alt="Bilibili Video">
-    </a>
-</p>
+</details>
