@@ -22,6 +22,8 @@
 
 [[#8. 参考文献与技术标准]]
 
+[[#9. 关于作者与技术支持]]
+
 ---
 
 # 1. 摘要
@@ -226,3 +228,39 @@ tools/
         
     - **核心关联**：用于实现 20 路跑道顺序闪烁灯（跑兔灯）的译码计数逻辑与硬件移位驱动。
         
+
+---
+
+# 9. 关于作者与技术支持
+
+如果你在复刻过程中遇到技术难题，或者对本项目有改进建议，欢迎通过以下方式联系我：
+
+## 9.1 作者信息
+
+* **教育背景**：就读于 **庆熙大学 (Kyung Hee University, South Korea)** · 电子工程系
+* **微信 (WeChat)**：`Daniel_Qinghan`
+* **邮箱 (Email)**：[wuhanqing2005@gmail.com](mailto:wuhanqing2005@gmail.com)
+
+## 9.2 技术交流群
+
+* **QQ群**：`1087242118`（入群请备注：进近灯）
+
+## 9.3 项目演示视频
+
+<div align="center">
+    <br>
+    <iframe 
+        width="100%" 
+        height="500px" 
+        src="https://player.bilibili.com/player.html?bvid=BV1fFtZz1Eyx&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
+        frameborder="0" 
+        sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"
+        allowfullscreen>
+    </iframe>
+</div>
+
+<p align="center">
+    <a href="https://www.bilibili.com/video/BV1fFtZz1Eyx">
+        <img src="https://img.shields.io/badge/Bilibili-点击跳转观看高清视频-fb7299?style=for-the-badge&logo=bilibili" alt="Bilibili Video">
+    </a>
+</p>
