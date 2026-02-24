@@ -253,8 +253,6 @@ tools/
   </a>
 </p>
 
-<details open>
-<summary style="cursor: pointer; color: #fb7299; font-weight: bold;">📽️ 点击展开/收起内置播放器</summary>
 <div align="center">
     <br>
     <iframe 
@@ -262,8 +260,6 @@ tools/
         height="500px" 
         src="https://player.bilibili.com/player.html?bvid=BV1fFtZz1Eyx&page=1&as_wide=1&high_quality=1&danmaku=0&autoplay=0" 
         frameborder="0" 
-        sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"
         allowfullscreen>
     </iframe>
 </div>
-</details>
