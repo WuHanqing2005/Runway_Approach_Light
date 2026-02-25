@@ -181,4 +181,4 @@ tools/
 
 ## 9.3 项目演示视频
 
-[![Watch on Bilibili](https://img.shields.io/badge/Bilibili-点击跳转观看演示视频-fb7299?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1fFtZz1Eyx)
+[https://www.bilibili.com/video/BV1fFtZz1Eyx](https://www.bilibili.com/video/BV1fFtZz1Eyx)
